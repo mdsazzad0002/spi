@@ -1,0 +1,26 @@
+
+.progress-bar{
+    height: 8px;
+    width:100%;
+    background: black;
+    text-align: right;
+    font-size: 7px;
+    position:fixed;
+    top:0;
+    color:#fff;
+}
+
+.progress-bar p{
+    top:0;
+    position:absolute;
+    height: 8px;
+    background: green;
+  
+}
+.progress-bar div{
+    height: 12px;
+    text-align: right;
+    position:absolute;
+    top:0;
+    right:0;
+}

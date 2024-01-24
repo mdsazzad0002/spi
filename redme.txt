@@ -1,0 +1,13 @@
+Go to your admin panel
+Create Database: 	spi
+
+Brouse this link: 	localhost/firstime/starting/
+Then click:		Crate new firs time
+
+Database Connection:	localhost/firstime/starting/
+			localhost/firstime/starting/
+			localhost/connection/index.php
+
+
+Almost done thank you
+Admin Panel: 		http://localhost/mug/dashbord/

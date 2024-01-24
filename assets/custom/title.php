@@ -1,0 +1,1 @@
+<?php echo mysqli_fetch_assoc($con->query("SELECT * FROM `web_title` WHERE `type`='full'"))['title']; ?>
